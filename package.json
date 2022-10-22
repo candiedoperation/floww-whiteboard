@@ -1,10 +1,14 @@
 {
-  "name": "fabric",
-  "description": "Object model for HTML5 canvas, and SVG-to-canvas parser. Backed by jsdom and node-canvas.",
-  "homepage": "http://fabricjs.com/",
+  "name": "floww-whiteboard",
+  "description": "A Custom Build of fabric.js for the Floww Whiteboard",
+  "homepage": "https://atheesh.org/floww-whiteboard",
   "version": "5.2.4",
-  "author": "Juriy Zaytsev <kangax@gmail.com>",
+  "author": "Atheesh Thirumalairajan <howdy@atheesh.org>",
   "contributors": [
+    {
+      "name": "Juriy Zaytsev",
+      "email": "kangax@gmail.com"
+    },
     {
       "name": "Andrea Bogazzi",
       "email": "andreabogazzi79@gmail.com"
@@ -37,10 +41,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/fabricjs/fabric.js"
+    "url": "https://github.com/candiedoperation/floww-whiteboard"
   },
   "bugs": {
-    "url": "https://github.com/fabricjs/fabric.js/issues"
+    "url": "https://github.com/candiedoperation/floww-whiteboard/issues"
   },
   "license": "MIT",
   "scripts": {
